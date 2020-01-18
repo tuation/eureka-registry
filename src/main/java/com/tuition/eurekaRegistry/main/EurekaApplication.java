@@ -1,4 +1,4 @@
-package com.tuation.eurekaRegistry.main;
+package com.tuition.eurekaRegistry.main;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
